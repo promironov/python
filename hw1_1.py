@@ -1,10 +1,10 @@
-sVar1 = 'simple string'
-print(sVar1)
-sVar2 = 'difficult "string'
-print(sVar2)
-bVar1 = True
-bVar2 = bVar1 == sVar1
-print(bVar2)
+s_var1 = 'simple string'
+print(s_var1)
+s_var2 = 'difficult "string'
+print(s_var2)
+b_var1 = True
+b_var2 = b_var1 == s_var1
+print(b_var2)
 
 age = int(input('Введите ваш возраст'))
 weight = int(input('Введите ваш вес'))
